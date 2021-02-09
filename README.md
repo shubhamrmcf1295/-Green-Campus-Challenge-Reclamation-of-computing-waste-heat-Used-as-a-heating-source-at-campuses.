@@ -1,6 +1,8 @@
-# -Green-Campus-Challenge-Reclamation-of-computing-waste-heat-Used-as-a-heating-source-at-campuses.
+# -Green-Campus-Challenge
 
 Green Campus Challenge (https://mitdkinnovation.nos.co/#hero)
+
+Project - -Reclamation-of-computing-waste-heat-Used-as-a-heating-source-at-campuses.
 
 The Green Campus Challenge is a competition of the Massachusetts Institute of Technology (USA) with the aim of sharing and developing cross-cultural ideas with an international network of students, campus stakeholders, academic and entrepreneurship experts, and some of the most innovative companies in the world. The aim is to work together to bring our climate change strategies together and to make campuses green, from the first idea to something feasible.
 
